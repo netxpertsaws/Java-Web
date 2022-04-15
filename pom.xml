@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>NetXperts Technologies Releases Nexus Repository</name>
-	      <url>http://3.109.181.141:8081/repository/maven-release/</url>
+	      <url>http://65.0.205.226:8081/repository/maven-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
