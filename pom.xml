@@ -93,21 +93,7 @@
 		
 	</dependencies>
 	
-	<distributionManagement>
 	
-	    <repository>
-	      <id>nexus</id>
-	      <name>NetXperts Technologies Releases Nexus Repository</name>
-	      <url>http://65.2.141.195:8081/repository/maven-release/</url>
-	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>NetXperts Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.2.141.195:8081/repository/snap-1/</url>
-	    </snapshotRepository>
-	    
-	</distributionManagement>
 	
 	<build>
 		<finalName>maven-web-application</finalName>
