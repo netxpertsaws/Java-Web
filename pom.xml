@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Netxperts Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.69.15:8081/repository/netxperts-release/</url>
+	      <url>http://13.127.228.42:8081/repository/nexus/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Netxperts Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.69.15:8081/repository/nextxpertrs-snapshot/</url>
+	      <url>http://13.127.228.42:8081/repository/nexussnap/</url>
 	   	   
 	    	   
 	    </snapshotRepository>
