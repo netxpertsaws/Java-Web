@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Netxperts Technologies Releases Nexus Repository</name>
-	      <url>http://13.234.38.92:8081/repository/maven-releases/</url>
+	      <url>http://15.206.145.151:8081/repository/netxpertstorage-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Netxperts Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.234.38.92:8081/repository/maven-snapshots/</url>
+	      <url>http://15.206.145.151:8081/repository/netxpertsstorage-snapshot/</url>
 	   	   
 	    	   
 	    </snapshotRepository>
