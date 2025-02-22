@@ -1,2 +1,2 @@
-FROM tomcat:8.0.20-jre8
+FROM tomcat:9.0.100-jre21-temurin-jammy
 COPY target/maven-web-app*.war /usr/local/tomcat/webapps/maven-web-application.war
