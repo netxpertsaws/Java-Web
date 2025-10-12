@@ -23,3 +23,4 @@ public static void main(String[] args) {
     System.out.println(myObj.x); // Print the value of x
   }
 }
+Welcome One
