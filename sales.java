@@ -11,4 +11,10 @@ myStaticMethod(); // Call the static method
     myObj.myPublicMethod(); // Call the public method on the object
   }
 }
-(Sales Module Three)
+// Inside main, call the methods on the myCar object
+  public static void main(String[] args) {
+    Main myCar = new Main();   // Create a myCar object
+    myCar.fullThrottle();      // Call the fullThrottle() method
+    myCar.speed(200);          // Call the speed() method
+  }
+}
