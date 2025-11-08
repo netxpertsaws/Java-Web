@@ -23,7 +23,7 @@
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://52.66.198.188:9000/</sonar.host.url> <!-- Replace with your SonarQube server URL -->
         <sonar.projectKey>my-java</sonar.projectKey> <!-- Replace with your SonarQube project key -->
-        <sonar.token>squ_90aff1d2a5b8d16472444666009782bdca235f0a</sonar.token> <!-- Replace with your actual SonarQube token -->
+        <sonar.token>sqp_e3dc6b3638eeea046a3913398887e7524aaa55d0</sonar.token> <!-- Replace with your actual SonarQube token -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
